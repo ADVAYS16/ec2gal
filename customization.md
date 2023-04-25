@@ -17,11 +17,11 @@
             </picture>
             <div class="content">
               <p class="detail">Coding Profile</p>
-                <h1>NAME</h1>
+                <h1>Advay Shindikar</h1>
               <p>
-                Highschool student who has been coding for 3 years.
+                Sophomore at Del Norte High School, with 2 years of coding experience.
               </p>
-              <a href="https://pages.github.com/" class="button"></a>
+              <a href="https://pages.github.com/ADVAYS16" class="button"></a>
             </div>
           </article>
         </main>
