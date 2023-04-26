@@ -13,7 +13,7 @@
           <article class="profile">
             <picture class="profile-img">
               <source srcset="images/profile.png" media="(min-width: 600px)">
-              <img src="images/profile.png" alt="profile">
+              <img src="/Users/advayshindikar/vscode/ec2gal/images/2346.JPEG" alt="profile">
             </picture>
             <div class="content">
               <p class="detail">Coding Profile</p>
